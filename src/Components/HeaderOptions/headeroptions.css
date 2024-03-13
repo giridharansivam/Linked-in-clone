@@ -1,0 +1,14 @@
+.header_options{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+.header_options:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.headeroptions_avatar{
+    height: 1.5rem !important;
+    width: 1.5rem !important;
+}
